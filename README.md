@@ -53,7 +53,7 @@ A full-stack application designed to manage student data efficiently with role-b
 **Tech Stack:**  
 Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript
 
-👉 Source Code: *(Add your repository link here)*
+👉 Source Code: *((https://github.com/Gouse2/Student-Management-System))*
 
 ### 🔹 Mini-Event-platform (MongoDB, Express.js, React.js, Node.js)
 A full-stack MERN application designed to manage event data efficiently. 
@@ -65,7 +65,7 @@ A full-stack MERN application designed to manage event data efficiently.
 - MongoDB database integration
 - Input validation and exception handling
 
-👉 Source Code: *(Add your repository link here)*
+👉 Source Code: *(https://github.com/Gouse2/Mini-Event-Platform)*
 
 ---
 
@@ -76,7 +76,7 @@ A collection of Java programs demonstrating strong fundamentals in:
 - Exception Handling
 - JDBC & database connectivity
 
-👉 Source Code: *(Add your repository link here)*
+👉 Source Code: *(https://github.com/Gouse2/Fourth-Hibernate)*
 
 ---
 
